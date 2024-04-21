@@ -1,4 +1,4 @@
-# Project-1
+# Project: Split Landing Page
 This is a split landing page project
 
 Project Title: Split Landing Page
